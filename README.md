@@ -4,7 +4,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramib5734&label=Profile%20views&color=0e75b6&style=flat" alt="ramib5734" /> </p>
 
-- 🌱 I’m currently learning **NextJS Routing, Redux Toolkit, Styled Components and Sanity**
+- 🌱 I’m currently learning **C#, Python, NextJS, TypeScript**
 
 - 💬 Ask me about **Cats or Dogs, but be ready to show me pictures of them!**
 
