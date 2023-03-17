@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rami Bazzi!</h1>
 <br>
-<h3 align="center">A passionate and hard working Full-Stack developer from New York</h3>
+<h3 align="center">A passionate and hard working Full-Stack Web Developer from New York</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramib5734&label=Profile%20views&color=0e75b6&style=flat" alt="ramib5734" /> </p>
 
-- 🌱 I’m currently learning **C#, Python, NextJS, TypeScript**
-
-- 💬 Ask me about **Cats or Dogs, but be ready to show me pictures of them!**
-
-- ⚡ Fun fact **I'm a huge eSports fan!**
+🎯 <h3> <b> What I'm looking <b/> <h3/>
 
 Want to talk more?
 
