@@ -8,9 +8,7 @@
   
   <p> I'm currently looking for any and all opportunities to grow my knowledge in software development! </p>
  
-  <h3> I'm most interested in </h3>
-   <p> - Frontend roles that focus on design and building web pages
-     - Full Stack roles with a lean on the frontend side of things </p>
+  <p> I'm most interested in Frontend roles that focus on design and building web pages or Full Stack roles with a lean on the frontend side of things </p>
   
   <p> But overall I'm open to anything as long as I'm able to learn alongside the job! </p>
   
