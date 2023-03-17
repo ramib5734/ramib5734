@@ -10,8 +10,6 @@
  
   <p> I'm most interested in Frontend roles that focus on design and building web pages or Full Stack roles with a lean on the frontend side of things </p>
   
-  <p> But overall I'm open to anything as long as I'm able to learn alongside the job! </p>
-  
 
 Want to talk more?
 
